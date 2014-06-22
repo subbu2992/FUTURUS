@@ -1,0 +1,40 @@
+
+select{
+	width:158px;
+}
+#image{
+	margin-left:180px;
+	margin-top:-40px;
+	width:130px;
+}
+p{
+	margin-left:10%;
+	margin-top:2%;
+}
+#name{
+	margin-right:3%;
+}
+#nme{
+	margin-left:110px;
+}
+#age{
+	margin-left:130px;
+}
+#birthday{
+	margin-left:90px;
+}
+#email{
+	margin-left:118px;
+}
+#cont{
+	margin-left:92px;
+}
+#cool{
+	margin-left:60px;
+}
+
+#ok{
+	margin-left:300px;
+	background-color:#0258c9;
+	margin-top:20px;
+}
